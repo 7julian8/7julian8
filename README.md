@@ -1,0 +1,7 @@
+- 👋 Hi, I’m @7julian8
+- 👀 I’m interested in developing and gaming.
+- 🌱 I’m currently learning C++ & Java
+- 💞️ I’m looking to collaborate on old Fortnite emulators!
+- 📫 You can reeach me per mail: ploudrosserver@outlook.de
+- 😄 Pronouns: he is
+- ⚡ Fun fact: I'm a german!
