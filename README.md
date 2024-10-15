@@ -31,6 +31,6 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/Proton0/Proton0/output/snake.svg" alt="Snake animation" />
+
 
 ###
